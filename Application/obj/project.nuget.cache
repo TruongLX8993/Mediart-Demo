@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "sXr+1h877usRdsiXR3WXBrkZsF08h4XgZHSdZ6Fu9uKxul7GvFdfrFjY00D65rvjthFLn1sBIeMd10h0eTnoAw==",
+  "success": true,
+  "projectFilePath": "/Users/truonglx/RiderProjects/MediatRShample/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/truonglx/.nuget/packages/automapper/10.1.0/automapper.10.1.0.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.0/automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/microsoft.extensions.configuration.binder/5.0.0/microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/microsoft.extensions.options.configurationextensions/5.0.0/microsoft.extensions.options.configurationextensions.5.0.0.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

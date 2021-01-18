@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bL84S7bCAmt62/sSkTmAkLgZnnC72Eo5nFCzL9scA1OtPxV/1JssKX/GH7/M6xNLUuDLTeXqp0UmTLWP4hcuXg==",
+  "success": true,
+  "projectFilePath": "/Users/truonglx/RiderProjects/MediatRShample/Infrastructure/Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/truonglx/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

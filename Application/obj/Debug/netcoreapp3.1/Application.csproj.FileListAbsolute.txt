@@ -1,0 +1,12 @@
+/Users/truonglx/RiderProjects/MediatRShample/Application/bin/Debug/netcoreapp3.1/Application.deps.json
+/Users/truonglx/RiderProjects/MediatRShample/Application/bin/Debug/netcoreapp3.1/Application.dll
+/Users/truonglx/RiderProjects/MediatRShample/Application/bin/Debug/netcoreapp3.1/Application.pdb
+/Users/truonglx/RiderProjects/MediatRShample/Application/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/truonglx/RiderProjects/MediatRShample/Application/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/truonglx/RiderProjects/MediatRShample/Application/obj/Debug/netcoreapp3.1/Application.csprojAssemblyReference.cache
+/Users/truonglx/RiderProjects/MediatRShample/Application/obj/Debug/netcoreapp3.1/Application.AssemblyInfoInputs.cache
+/Users/truonglx/RiderProjects/MediatRShample/Application/obj/Debug/netcoreapp3.1/Application.AssemblyInfo.cs
+/Users/truonglx/RiderProjects/MediatRShample/Application/obj/Debug/netcoreapp3.1/Application.csproj.CoreCompileInputs.cache
+/Users/truonglx/RiderProjects/MediatRShample/Application/obj/Debug/netcoreapp3.1/Application.csproj.CopyComplete
+/Users/truonglx/RiderProjects/MediatRShample/Application/obj/Debug/netcoreapp3.1/Application.dll
+/Users/truonglx/RiderProjects/MediatRShample/Application/obj/Debug/netcoreapp3.1/Application.pdb
